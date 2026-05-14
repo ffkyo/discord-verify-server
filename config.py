@@ -10,7 +10,7 @@ CLIENT_ID = "1504241186968305804"
 CLIENT_SECRET = "YHzP1yzYTo5uMvCqgSJ1t2FkIg4408qZ"
 
 # Wichtig: Erstmal Platzhalter, nach Render-Setup ersetzen!
-BASE_URL = "https://DEIN-APP-NAME.onrender.com"
+BASE_URL = "https://discord-verify-server.onrender.com"
 
 # Deine Render-IP
 WEB_IP = "0.0.0.0"
