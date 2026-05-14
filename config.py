@@ -1,5 +1,5 @@
-# Bot token (für die Role-Vergabe per API)
-token = "MTUwNDI0MTE4Njk2ODMwNTgwNA.GgwRVV.W_7N1K6xFiD0RAPSZzFpJiAYcaDSLw-5T-m-sE"
+import os
+token = os.environ.get("BOT_TOKEN", "platzhalter")
 
 # Deine Server-IDs
 guildid = "1490783176992227328"
