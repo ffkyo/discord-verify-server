@@ -1,5 +1,5 @@
 # Bot token (für die Role-Vergabe per API)
-token = "DEIN_BOT_TOKEN_HIER"
+token = "MTUwNDI0MTE4Njk2ODMwNTgwNA.GgwRVV.W_7N1K6xFiD0RAPSZzFpJiAYcaDSLw-5T-m-sE"
 
 # Deine Server-IDs
 guildid = "1490783176992227328"
